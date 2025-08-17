@@ -43,7 +43,7 @@ It collects client feedback (NPS ratings & comments), analyzes it using AI, and 
 ## 📂 Workflow Overview  
 
 Here’s a snapshot of the workflow in n8n:  
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/19e9569e-e4cc-4f99-938d-47f45a80fcee" />
+<img width="1766" height="708" alt="image" src="https://github.com/user-attachments/assets/6206315f-c9b0-435a-9446-21658e941507" />
 
 ---
 
